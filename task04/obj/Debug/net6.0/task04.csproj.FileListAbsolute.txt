@@ -1,0 +1,16 @@
+C:\Users\1\Desktop\01.08.2023\task04\obj\Debug\net6.0\task04.GlobalUsings.g.cs
+C:\Users\1\Desktop\01.08.2023\task04\obj\Debug\net6.0\task04.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\01.08.2023\task04\obj\Debug\net6.0\task04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\01.08.2023\task04\obj\Debug\net6.0\task04.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\01.08.2023\task04\obj\Debug\net6.0\task04.AssemblyInfo.cs
+C:\Users\1\Desktop\01.08.2023\task04\obj\Debug\net6.0\task04.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\01.08.2023\task04\bin\Debug\net6.0\task04.exe
+C:\Users\1\Desktop\01.08.2023\task04\bin\Debug\net6.0\task04.deps.json
+C:\Users\1\Desktop\01.08.2023\task04\bin\Debug\net6.0\task04.runtimeconfig.json
+C:\Users\1\Desktop\01.08.2023\task04\bin\Debug\net6.0\task04.dll
+C:\Users\1\Desktop\01.08.2023\task04\bin\Debug\net6.0\ref\task04.dll
+C:\Users\1\Desktop\01.08.2023\task04\bin\Debug\net6.0\task04.pdb
+C:\Users\1\Desktop\01.08.2023\task04\obj\Debug\net6.0\task04.dll
+C:\Users\1\Desktop\01.08.2023\task04\obj\Debug\net6.0\ref\task04.dll
+C:\Users\1\Desktop\01.08.2023\task04\obj\Debug\net6.0\task04.pdb
+C:\Users\1\Desktop\01.08.2023\task04\obj\Debug\net6.0\task04.genruntimeconfig.cache
