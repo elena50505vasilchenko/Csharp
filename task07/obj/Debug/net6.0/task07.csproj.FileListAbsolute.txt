@@ -1,0 +1,16 @@
+C:\Users\1\Desktop\01.08.2023\task07\bin\Debug\net6.0\task07.exe
+C:\Users\1\Desktop\01.08.2023\task07\bin\Debug\net6.0\task07.deps.json
+C:\Users\1\Desktop\01.08.2023\task07\bin\Debug\net6.0\task07.runtimeconfig.json
+C:\Users\1\Desktop\01.08.2023\task07\bin\Debug\net6.0\task07.dll
+C:\Users\1\Desktop\01.08.2023\task07\bin\Debug\net6.0\ref\task07.dll
+C:\Users\1\Desktop\01.08.2023\task07\bin\Debug\net6.0\task07.pdb
+C:\Users\1\Desktop\01.08.2023\task07\obj\Debug\net6.0\task07.GlobalUsings.g.cs
+C:\Users\1\Desktop\01.08.2023\task07\obj\Debug\net6.0\task07.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\01.08.2023\task07\obj\Debug\net6.0\task07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\01.08.2023\task07\obj\Debug\net6.0\task07.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\01.08.2023\task07\obj\Debug\net6.0\task07.AssemblyInfo.cs
+C:\Users\1\Desktop\01.08.2023\task07\obj\Debug\net6.0\task07.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\01.08.2023\task07\obj\Debug\net6.0\task07.dll
+C:\Users\1\Desktop\01.08.2023\task07\obj\Debug\net6.0\ref\task07.dll
+C:\Users\1\Desktop\01.08.2023\task07\obj\Debug\net6.0\task07.pdb
+C:\Users\1\Desktop\01.08.2023\task07\obj\Debug\net6.0\task07.genruntimeconfig.cache
