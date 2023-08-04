@@ -1,0 +1,16 @@
+C:\Users\1\Desktop\C#_01.08.2023\task11\obj\Debug\net6.0\task11.GlobalUsings.g.cs
+C:\Users\1\Desktop\C#_01.08.2023\task11\obj\Debug\net6.0\task11.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\C#_01.08.2023\task11\obj\Debug\net6.0\task11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\C#_01.08.2023\task11\obj\Debug\net6.0\task11.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\C#_01.08.2023\task11\obj\Debug\net6.0\task11.AssemblyInfo.cs
+C:\Users\1\Desktop\C#_01.08.2023\task11\obj\Debug\net6.0\task11.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\C#_01.08.2023\task11\bin\Debug\net6.0\task11.exe
+C:\Users\1\Desktop\C#_01.08.2023\task11\bin\Debug\net6.0\task11.deps.json
+C:\Users\1\Desktop\C#_01.08.2023\task11\bin\Debug\net6.0\task11.runtimeconfig.json
+C:\Users\1\Desktop\C#_01.08.2023\task11\bin\Debug\net6.0\task11.dll
+C:\Users\1\Desktop\C#_01.08.2023\task11\bin\Debug\net6.0\ref\task11.dll
+C:\Users\1\Desktop\C#_01.08.2023\task11\bin\Debug\net6.0\task11.pdb
+C:\Users\1\Desktop\C#_01.08.2023\task11\obj\Debug\net6.0\task11.dll
+C:\Users\1\Desktop\C#_01.08.2023\task11\obj\Debug\net6.0\ref\task11.dll
+C:\Users\1\Desktop\C#_01.08.2023\task11\obj\Debug\net6.0\task11.pdb
+C:\Users\1\Desktop\C#_01.08.2023\task11\obj\Debug\net6.0\task11.genruntimeconfig.cache
