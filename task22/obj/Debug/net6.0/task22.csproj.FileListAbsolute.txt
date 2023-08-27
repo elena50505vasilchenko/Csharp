@@ -1,0 +1,16 @@
+C:\Users\1\Desktop\C#_01.08.2023\task22\obj\Debug\net6.0\task22.GlobalUsings.g.cs
+C:\Users\1\Desktop\C#_01.08.2023\task22\obj\Debug\net6.0\task22.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\C#_01.08.2023\task22\obj\Debug\net6.0\task22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\C#_01.08.2023\task22\obj\Debug\net6.0\task22.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\C#_01.08.2023\task22\obj\Debug\net6.0\task22.AssemblyInfo.cs
+C:\Users\1\Desktop\C#_01.08.2023\task22\obj\Debug\net6.0\task22.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\C#_01.08.2023\task22\bin\Debug\net6.0\task22.exe
+C:\Users\1\Desktop\C#_01.08.2023\task22\bin\Debug\net6.0\task22.deps.json
+C:\Users\1\Desktop\C#_01.08.2023\task22\bin\Debug\net6.0\task22.runtimeconfig.json
+C:\Users\1\Desktop\C#_01.08.2023\task22\bin\Debug\net6.0\task22.dll
+C:\Users\1\Desktop\C#_01.08.2023\task22\bin\Debug\net6.0\ref\task22.dll
+C:\Users\1\Desktop\C#_01.08.2023\task22\bin\Debug\net6.0\task22.pdb
+C:\Users\1\Desktop\C#_01.08.2023\task22\obj\Debug\net6.0\task22.dll
+C:\Users\1\Desktop\C#_01.08.2023\task22\obj\Debug\net6.0\ref\task22.dll
+C:\Users\1\Desktop\C#_01.08.2023\task22\obj\Debug\net6.0\task22.pdb
+C:\Users\1\Desktop\C#_01.08.2023\task22\obj\Debug\net6.0\task22.genruntimeconfig.cache
